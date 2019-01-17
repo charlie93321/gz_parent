@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="tt" />
+        <module name="tyuy" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tt" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

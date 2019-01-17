@@ -1,0 +1,3 @@
+[submodule "wh_parent/tyuy"]
+	path = wh_parent/tyuy
+	url = https://github.com/charlie93321/gz_parent.git
